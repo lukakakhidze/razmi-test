@@ -1,0 +1,13 @@
+print("i am 11 years old")
+print("my name is luka")
+print("my brother nam is giorgi")
+print("my dad name is alex")
+print("my mum name is lela")
+print("my cat name is sunny")
+
+print(my_age)
+print(my_name)
+print(my_brother_name)
+print(my_dad_name)
+print(my_mum_name)
+print(my_cat_name)
